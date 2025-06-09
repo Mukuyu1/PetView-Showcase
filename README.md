@@ -11,6 +11,7 @@
 - **Website (HTTPS):** https://tabbyyy.click  
 - **GitHub Repo:**   https://github.com/Mukuyu1/PetView-Showcase
 - **Video Explainer:https://youtu.be/tEiSOzdtB78
+  https://github.com/Mukuyu1/PetView-Showcase/blob/main/ICT171%20Assignment%202%20documentation.pdf
 
 - 
 
@@ -87,7 +88,7 @@ Purpose: Automates installation and configuration of the Apache web server on a 
 
     Writing reusable technical documentation
 
-https://github.com/Mukuyu1/PetView-Showcase/blob/main/ICT171%20Assignment%202%20documentation.pdf
+
 
 
 
